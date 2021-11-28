@@ -10,7 +10,7 @@
         "-XX:+UseParNewGC",
         "-Djna.nosys=true"
     ],
-    "buildCommit": "e339672906c965c1f8c2904454abb046674eeb33",
+    "buildCommit": "2b8bda19ca1d3ad758ed91fe689bd85377546f93",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -59,7 +59,7 @@
             "path": "https://github.com/Casesos/hosting/raw/master/stable/http-api-4.15.4.jar",
             "size": 160828,
             "name": "http-api-4.15.4.jar",
-            "hash": "8ee307be03c9cfba2e41f9078d49503ba4ee3d338ef19738b3a6b40bbfbd4554"
+            "hash": "b404f2857bfb131280578fcd72f88d05085adc3e959c74cb39d1f72db4e0a939"
         },
         {
             "path": "https://github.com/Casesos/hosting/raw/master/stable/runelite-jshell-4.15.4.jar",
@@ -399,9 +399,9 @@
         },
         {
             "path": "https://github.com/Casesos/hosting/raw/master/stable/runelite-client-4.15.4.jar",
-            "size": 10944868,
+            "size": 10944833,
             "name": "runelite-client-4.15.4.jar",
-            "hash": "c45debcd4f4676b8378e319e7b68fbd55ce8fe07f21b264c3bacdb31c0dc634a"
+            "hash": "e3666eed205fa47dd39a428cd1beb08c6128533f8408789a68d884c990565ff8"
         }
     ]
 }
