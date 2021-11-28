@@ -399,9 +399,9 @@
         },
         {
             "path": "https://github.com/Casesos/hosting/raw/master/stable/runelite-client-4.15.4.jar",
-            "size": 10944863,
+            "size": 10944865,
             "name": "runelite-client-4.15.4.jar",
-            "hash": "e8bfeb892e0c1f83126ba283568fbcb47eada81806e704e36040744d498a4b71"
+            "hash": "1d6a03b367c1a2bb9877ee9d3eda7a7157791e0abb555b3c21022ffaa5eee0ea"
         }
     ]
 }
