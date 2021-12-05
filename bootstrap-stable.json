@@ -59,7 +59,7 @@
             "path": "https://github.com/Casesos/hosting/raw/master/stable/http-api-4.15.6.jar",
             "size": 160828,
             "name": "http-api-4.15.6.jar",
-            "hash": "27cafa057c774f645d2e36d71e5c5e633927152492d513552050407b4498d203"
+            "hash": "5be251de284a74de9a332fde2f22124e46d1d7ceba7912ffb3f06192d8237304"
         },
         {
             "path": "https://github.com/Casesos/hosting/raw/master/stable/runelite-jshell-4.15.6.jar",
@@ -401,7 +401,7 @@
             "path": "https://github.com/Casesos/hosting/raw/master/stable/runelite-client-4.15.6.jar",
             "size": 11524598,
             "name": "runelite-client-4.15.6.jar",
-            "hash": "15316507c9a4b713afb2058ba4d2ad1020bd565fdbf7b58f9fc8cfd17560b31f"
+            "hash": "f8ceead1a8272858b088e86c92aefd5fb463ddf831a1cd3390e0caab61b08592"
         }
     ]
 }
