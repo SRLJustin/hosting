@@ -41,30 +41,30 @@
         "-Dawt.useSystemAAFontSettings=on",
         "-Dswing.aatext=true"
     ],
-    "projectVersion": "4.17.1",
+    "projectVersion": "4.17.0",
     "artifacts": [
         {
-            "path": "https://github.com/Casesos/hosting/raw/master/stable/runescape-api-4.17.1.jar",
+            "path": "https://github.com/Casesos/hosting/raw/master/stable/runescape-api-4.17.0.jar",
             "size": 114975,
-            "name": "runescape-api-4.17.1.jar",
+            "name": "runescape-api-4.17.0.jar",
             "hash": "7448bfd19ed53c27795038dcdb988b9f4cb506b5c2ea3dd20ecb96276e866b07"
         },
         {
-            "path": "https://github.com/Casesos/hosting/raw/master/stable/runelite-api-4.17.1.jar",
+            "path": "https://github.com/Casesos/hosting/raw/master/stable/runelite-api-4.17.0.jar",
             "size": 1295728,
-            "name": "runelite-api-4.17.1.jar",
+            "name": "runelite-api-4.17.0.jar",
             "hash": "2a3f898df2454dff57db3c6d6917df23168b10066cc5be38a1e5888bed039c56"
         },
         {
-            "path": "https://github.com/Casesos/hosting/raw/master/stable/http-api-4.17.1.jar",
+            "path": "https://github.com/Casesos/hosting/raw/master/stable/http-api-4.17.0.jar",
             "size": 124832,
-            "name": "http-api-4.17.1.jar",
+            "name": "http-api-4.17.0.jar",
             "hash": "e6c5207bf6436b9d5399bcd02527a59e1715f26be4ee15504b750c4dbdacb57a"
         },
         {
-            "path": "https://github.com/Casesos/hosting/raw/master/stable/runelite-jshell-4.17.1.jar",
+            "path": "https://github.com/Casesos/hosting/raw/master/stable/runelite-jshell-4.17.0.jar",
             "size": 23182,
-            "name": "runelite-jshell-4.17.1.jar",
+            "name": "runelite-jshell-4.17.0.jar",
             "hash": "e484114d66f41cb767f21949dc3de08b002aaaf0254f6462d7f7e6e614f58661"
         },
         {
@@ -398,10 +398,10 @@
             "hash": "4681f2d436a68c7523595d84ed5758e1382f9da0f67c91e6a848690d711274fe"
         },
         {
-            "path": "https://github.com/Casesos/hosting/raw/master/stable/runelite-client-4.17.1.jar",
-            "size": 11799693,
-            "name": "runelite-client-4.17.1.jar",
-            "hash": "1457fc5acf3387692d169777d741a0c374cb5c846357ee417635553dcd2a745b"
+            "path": "https://github.com/Casesos/hosting/raw/master/stable/runelite-client-4.17.0.jar",
+            "size": 11799671,
+            "name": "runelite-client-4.17.0.jar",
+            "hash": "e3aff5ef7ea57eada0e740437c1d86bd641812f17064ac1162dc72295658d144"
         }
     ]
 }
